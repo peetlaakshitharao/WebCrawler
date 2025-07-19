@@ -1,6 +1,6 @@
 # Multithreaded Web Crawler (Java)
 
-A high-performance, multithreaded web crawler built using **Java**, **JSoup**, and **ExecutorService**. This crawler can recursively fetch and display links from any given website up to a user-defined depth using multiple worker threads.
+A multithreaded web crawler built using **Java**, **JSoup**, and **ExecutorService**. This crawler can recursively fetch and display links from any given website up to a user-defined depth using multiple worker threads.
 ## Project Architecture
 The following diagrams illustrates the internal architecture and flow of the multithreaded web crawler:
 <img width="735" height="540" alt="image" src="https://github.com/user-attachments/assets/1bcd4f4c-9919-44fa-b731-2eb12eee00e0" />
